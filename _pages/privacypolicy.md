@@ -8,7 +8,7 @@ include_in_header: false
 April 18th, 2021
 
 # Privacy Policy
-###Daxal does not collect or store your personal information. Period. 
+### Daxal does not collect or store your personal information. Period. 
 
 **Seriously**, I have no use for it. You bought an app to let you track subscriptions. I don't want to track you. I appreciate you buying the app and hope you find it useful. 
 
